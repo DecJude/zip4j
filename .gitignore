@@ -1,0 +1,15 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+**/target/
+**/.idea/
+**/.idea_modules/
+**/*.swp
+*.tar.gz
+*.DS_Store
+*.log
+**/out/
+.name
+Zip4j.iml
